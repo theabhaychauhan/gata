@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+.DS_Store
+
+data/raw/
+data/pages/
+data/extracted/
+data/clean/
+data/index/
+
+eval/answers/
+tests/golden/real/
